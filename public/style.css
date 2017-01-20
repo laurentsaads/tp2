@@ -1,0 +1,15 @@
+body
+{
+	Background-Color: #FFE4C4;
+}
+h1
+{
+color: blue;
+}
+
+div {
+ border-width:1px;
+ border-style:solid;
+ border-color:red
+
+ }
